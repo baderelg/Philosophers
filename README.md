@@ -6,7 +6,7 @@
 
 [![42 School](https://img.shields.io/badge/Paris-blue?logo=42&logoColor=fff)](https://42.fr/en/homepage/)
 [![Bonus](https://img.shields.io/badge/❌_Bonus-red)](https://github.com/baderelg/Philosophers) \
-<img src="https://i.imgur.com/W1vyk7j.png" width="100" alt="Validation confirmation on the 42 Intra @baelgadi - June 29th 2025">\
+<img src="https://i.imgur.com/ULeXRtU.png" width="100" alt="Validation confirmation on the 42 Intra @baelgadi - February 13th (Friday 💀) 2026">\
 [![Validation date](https://img.shields.io/date/1771005600?label=&style=for-the-badge&color=5cb85c)](https://github.com/baderelg/Philosophers)
 </div>
 
